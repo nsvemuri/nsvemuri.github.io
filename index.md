@@ -2,6 +2,6 @@
 
 ## Some Links
 
-* [Reinforcement Learning Tutorial] (/rltutorial/index.md)
+* [Reinforcement Learning Tutorial] (https://nsvemuri.github.io/rltutorial/)
 * [LinkedIn Home Page](http://www.linkedin.com/in/nsvemuri)
 
