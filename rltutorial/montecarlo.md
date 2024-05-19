@@ -73,5 +73,5 @@ for t in range(len(episode_states)-1, -1, -1):
 It is expected to have high variance compared to the TD Learning methods.
 However it has lower bias compared to TD methods.
 
-### [Policy gradient methods](policygradient.md)
+### Next [Policy gradient methods](policygradient.md)
 

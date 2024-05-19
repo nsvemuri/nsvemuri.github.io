@@ -142,5 +142,5 @@ Crux of the algorithm is:
       Q[states[len(states)-1-n], actions[len(states)-1-n]] += alpha * (G - Q[states[len(states)-1-n], actions[len(states)-1-n]])
 ```
 
-### [Monte Carlo simulation methods](montecarlo.md)
+### Next [Monte Carlo simulation methods](montecarlo.md)
 

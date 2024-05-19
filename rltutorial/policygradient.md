@@ -68,5 +68,5 @@ This provides a less accurate estimate but is computationally easier.
 
 For faster convergence we removed the loops during the state traversals
 
-### [Dynamic Programming](dynamicprogramming.md)
+### Next [Dynamic Programming](dynamicprogramming.md)
 

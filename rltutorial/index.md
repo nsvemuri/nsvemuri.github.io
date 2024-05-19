@@ -1,4 +1,4 @@
-# Hands-on introduction to RL
+# Hands-on introduction to RL (Reinforcement learning)
 
 
 

@@ -53,5 +53,5 @@ helps the reader develop good intuition around RL.
     define the next state or the reward received. (Page 93 of Chapter 5). This
     is a good example of where the model is unclear
 
-### [TD Learning methods](tdlearning.md)
+### Next [TD Learning methods](tdlearning.md)
 
