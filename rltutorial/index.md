@@ -15,7 +15,7 @@ In this codelab, you will learn about:
 *   Solve Grid world problem using TD Learning methods
 *   Solve Grid world problem using Monte Carlo Learning methods
 *   Solve Grid world problem using Policy Gradient Learning methods
-*   Solve Grid world problem using Dynamic programming (TBD)
+*   Solve Grid world problem using Dynamic programming
 
 Note: This is NOT an extensive tutorial covering RL. This is meant to bring down
 the barrier & motivate the audience to learn Reinforcement learning
@@ -26,7 +26,6 @@ the barrier & motivate the audience to learn Reinforcement learning
 *   Python programming
 *   Have basic understanding of running python in colab
 *   Nice to Have: Read specific chapters of Richard Sutton's book:  http://incompleteideas.net/book/the-book-2nd.html (Chapters 3-7 & 13 are relevant to this tutorial)
-    </section>
 
 
 ### Basic Assumptions
