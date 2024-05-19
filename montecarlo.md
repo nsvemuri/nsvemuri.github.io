@@ -13,7 +13,7 @@
 
 #### Monte Carlo Simulation with State value function
 
-[Colab Link: Monte Carlo Simulation Learning with State value functions](https://colab.research.google.com/drive/1ECb_3WfaVHWQtmWkuiCpGuV9SKwX8Wuv#scrollTo=G9-TFrJLxcb_)
+[Colab Link: Monte Carlo Simulation Learning with State value functions](https://colab.research.google.com/drive/1kJqFepPMnkbgYMO446927Aq_0OHfmFAl#scrollTo=G9-TFrJLxcb_)
 
 Monte Carlo Simulation Learning algorithm for the Grid Navigation problem - We
 learn State Value function V for num_episodes - Policy is a mapping from state
@@ -46,7 +46,7 @@ for s in range(env.nS):
 
 #### Monte Carlo Simulation with Action value methods
 
-[Colab Link: Monte Carlo Simulation Learning with Action value functions](https://colab.research.google.com/drive/1ECb_3WfaVHWQtmWkuiCpGuV9SKwX8Wuv#scrollTo=tNAbebpXtD1k)
+[Colab Link: Monte Carlo Simulation Learning with Action value functions](https://colab.research.google.com/drive/1kJqFepPMnkbgYMO446927Aq_0OHfmFAl#scrollTo=tNAbebpXtD1k)
 
 Not always, we have the model of the environment, in such cases, we learn the
 Action Value method

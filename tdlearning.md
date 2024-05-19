@@ -14,7 +14,7 @@
 
 ### TD(0)
 
-[Colab Link: TD(0) Learning with State value functions](https://colab.research.google.com/drive/15MEgvC0CrwgcHwygWYiqww1hcQ1-4p6U#scrollTo=G9-TFrJLxcb_)
+[Colab Link: TD(0) Learning with State value functions](https://colab.research.google.com/drive/1pROz-PoAMjv8xERnocSqmFj8MAWHqcpx#scrollTo=G9-TFrJLxcb_)
 
 #### TD(0) with State value function
 
@@ -77,7 +77,7 @@ Action Value method
 
 #### Q Learning
 
-[Colab Link: TD(0) Learning with Q Learning](https://colab.research.google.com/drive/15MEgvC0CrwgcHwygWYiqww1hcQ1-4p6U#scrollTo=deTbX8-3RvO3)
+[Colab Link: TD(0) Learning with Q Learning](https://colab.research.google.com/drive/1pROz-PoAMjv8xERnocSqmFj8MAWHqcpx#scrollTo=deTbX8-3RvO3)
 
 Q Learning is a action-value based TD(0) Learning technique for identifying the
 optimal policy
@@ -94,7 +94,7 @@ strictly use the behavioural policy in its update (it uses np.max() instead)
 
 #### SARSA
 
-[Colab Link: TD(0) Learning with SARSA](https://colab.research.google.com/drive/15MEgvC0CrwgcHwygWYiqww1hcQ1-4p6U#scrollTo=sSImSlHqT6kV)
+[Colab Link: TD(0) Learning with SARSA](https://colab.research.google.com/drive/1pROz-PoAMjv8xERnocSqmFj8MAWHqcpx#scrollTo=sSImSlHqT6kV)
 
 SARSA Learning is a action-value based TD(0) Learning technique for identifying
 the optimal policy
@@ -117,7 +117,7 @@ the behavioural policy in its update
 
 #### TD N-step bootstrapping
 
-[Colab Link: TD(n) bootstrap Learning](https://colab.research.google.com/drive/15MEgvC0CrwgcHwygWYiqww1hcQ1-4p6U#scrollTo=OyPP-SrzWi_W)
+[Colab Link: TD(n) bootstrap Learning](https://colab.research.google.com/drive/1pROz-PoAMjv8xERnocSqmFj8MAWHqcpx#scrollTo=OyPP-SrzWi_W)
 
 TD(n) Bootstrapping Learning algorithm for the Grid Navigation problem
 

@@ -11,7 +11,7 @@ Solve Grid world problem using Dynamic Programming
 
 ### Dynamic Programming
 
-[Colab Link: Dynamic programming](https://colab.research.google.com/drive/1yJoQzb5Y_D_SyHeYTs9wrT9r7fykpCP8#scrollTo=uUSPz362DvtS&line=1&uniqifier=1)
+[Colab Link: Dynamic programming](https://colab.research.google.com/drive/1HrR9VipZsyz4bHQiPtvjJfsxgkVIgQjc#scrollTo=G9-TFrJLxcb_)
 
 *   At a high level, Every (state, action) pair is updated using dynamic
     programming update equations until convergence.

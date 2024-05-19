@@ -8,7 +8,7 @@
 
 ### Policy Gradient Method (REINFORCE with baseline)
 
-[Colab Link:](https://colab.research.google.com/drive/1SfazL44IXF-vXCpzbXfosYAsBAPUD80L#scrollTo=G9-TFrJLxcb_)
+[Colab Link:](https://colab.research.google.com/drive/1gHW3MEemv-Ocq-9YcNm3vIFukLRRNhXd#scrollTo=en_xBj3GB-iq)
 
 Policy gradient methods directly optimize the policy itself, as opposed to other
 reinforcement learning techniques (like Q-learning) that learn value functions.
