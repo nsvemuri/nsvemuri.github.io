@@ -40,12 +40,4 @@ the barrier & motivate the audience to learn Reinforcement learning
     *   Specific rewards are received from the environment when agent takes
         actions from the given states
 
-
-
-### Initial Reading
-
-*   Read Chapter 3 for an introduction to basic concepts of RL
-*   Read Chapter 4 for an introduction to Dynamic Programming
-
-
 ### Next [Grid World Navigation Problem](gridworld.md)
