@@ -14,8 +14,9 @@ In this codelab, you will learn about:
 *   Introduction to Value based & Policy gradient based RL techniques
 *   Solve Grid world problem using TD Learning methods
 *   Solve Grid world problem using Monte Carlo Learning methods
-*   Solve Grid world problem using Policy Gradient Learning methods
+*   Solve Grid world problem using REINFORCE - a Policy Gradient Learning method
 *   Solve Grid world problem using Dynamic programming
+*   Solve Grid world problem using a variant of PPO   
 
 Note: This is NOT an extensive tutorial covering RL. This is meant to bring down
 the barrier & motivate the audience to learn Reinforcement learning

@@ -18,3 +18,4 @@ Solve Grid world problem using Dynamic Programming
 *   There is no concept of episodes and is a theoretical approach to Control
     methods using Policy iteration
 
+### Next [Proximal Policy Optimization](ppo.md)
