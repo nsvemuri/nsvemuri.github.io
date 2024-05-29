@@ -12,8 +12,15 @@
 
 Policy gradient methods directly optimize the policy itself, as opposed to other
 reinforcement learning techniques (like Q-learning) that learn value functions.
-Here's the core idea:
-My own variation of PPO Algorithm implemented for the GridWorld problem. PPO has become the default reinforcement learning algorithm at OpenAI because of its ease of use and good performance.
+
+I did my own variation of PPO Algorithm implemented for the GridWorld problem. 
+
+* I avoided Critic Network in favor of Average Reward
+* I used very small batches
+* I didn't leverage entropy in the loss function
+
+PPO is invented at OpenAI and has become the default reinforcement learning algorithm at OpenAI because of its ease of use and good performance.
+
 * References:https://openai.com/index/openai-baselines-ppo/
 * Youtube Reference: https://www.youtube.com/watch?v=5P7I-xPq8u8&t=1s  
 
