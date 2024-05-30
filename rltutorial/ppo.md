@@ -1,12 +1,11 @@
-# PPO - Policy gradient methods
-
+# PPO - Proximal Policy Optimization
 <!--* freshness: { owner: 'nagasrinivas' reviewed: '2024-05-11' review_interval: '12 months'} *-->
 
 ### Objective
 
 *   Solve Grid world problem using a variant of PPO - a Policy graident Technique
 
-### Policy Gradient Method
+### Proximal Policy Optimization
 
 [Colab Link:](https://colab.research.google.com/drive/1gsrdJ9FfILZj35u5HwSpM5sL-QwMAkM2#scrollTo=i7tJQPedBGW3&line=3&uniqifier=1)
 
@@ -24,6 +23,8 @@ PPO is invented at OpenAI and has become the default reinforcement learning algo
 * References:https://openai.com/index/openai-baselines-ppo/
 * Youtube Reference: https://www.youtube.com/watch?v=5P7I-xPq8u8&t=1s  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5P7I-xPq8u8"
+frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ##### Average Reward:
 
